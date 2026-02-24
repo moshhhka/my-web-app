@@ -1,0 +1,5 @@
+deploy.sh
+.git
+.venv
+*.md
+*.env
